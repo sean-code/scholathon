@@ -6,12 +6,12 @@ export class MovieCard extends Component {
     const { movie } = this.props;
     return (
       <div className="col-md-3 mb-5">
-        <div className="card card-body bg-dark text-center h-100">
+        <div className="card card-body bg-white text-center h-100" style={{color:'#000', backgroundColor:'#fff', boxShadow:'0px 2px 10px'}}>
           <img className="w-100 mb-2" src={movie.Poster} alt="Movie Cover" />
           <h5 className="text-light card-title">
             {movie.Title} - {movie.Year}
           </h5>
-          <Link className="btn btn-primary" to={'/movie/' + movie.imdbID}>
+          <Link className="btn " to={'/movie/' + movie.imdbID} style={{color:'#fff', backgroundColor:'#1b3050', boxShadow:'0px 2px 10px'}}>
             Movie Details
             <i className="fas fa-chevron-right" />
           </Link>
