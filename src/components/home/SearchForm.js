@@ -21,7 +21,7 @@ export class SearchForm extends Component {
 
   render() {
     return (
-      <div className="jumbotron jumbotron-fluid mt-4 text-center" style={{color:'#fff', backgroundColor:'#1305'}}>
+      <div className="jumbotron jumbotron-fluid mt-4 text-center" style={{color:'#000', backgroundColor:'#fff', boxShadow:'0px 2px 10px'}}>
         <div className="container">
           <h1 className="display-4 mb-3">
             <i className="fa fa-search" /> Search Any Shows Here...
