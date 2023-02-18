@@ -60,7 +60,8 @@ export class Movie extends Component {
                 className="btn"
                 style={{color:'#fff', backgroundColor:'#1b3050', marginRight: '10px'}}
               >
-                View on IMDB
+
+                View Trailer On IMDB
               </a>
               <Link to="/" className="btn btn-default" style={{color:'#fff', backgroundColor:'#1b3050'}}>
                 Go Back To Search
