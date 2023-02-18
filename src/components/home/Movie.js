@@ -48,7 +48,7 @@ export class Movie extends Component {
           </div>
         </div>
         <div className="row">
-          <div className="card card-body bg-dark my-5 text-light">
+          <div className="card card-body bg-white my-" style={{color:'#000', backgroundColor:'#fff', boxShadow:'0px 2px 10px', marginBottom:'10px'}} >
             <div className="col-md-12">
               <h3>About </h3>
               {movie.Plot}
@@ -57,11 +57,12 @@ export class Movie extends Component {
                 href={'https://www.imdb.com/title/' + movie.imdbID}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="btn btn-primary"
+                className="btn"
+                style={{color:'#fff', backgroundColor:'#1b3050', marginRight: '10px'}}
               >
                 View on IMDB
               </a>
-              <Link to="/" className="btn btn-default text-light">
+              <Link to="/" className="btn btn-default" style={{color:'#fff', backgroundColor:'#1b3050'}}>
                 Go Back To Search
               </Link>
             </div>
