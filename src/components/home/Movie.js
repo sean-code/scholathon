@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 import { fetchMovie, setLoading } from '../../actions/searchActions';
 
-import Spinner from '../layout/Spinner';
+import Spinner from '../setup/Spinner';
 
 export class Movie extends Component {
   componentDidMount() {
