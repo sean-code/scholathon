@@ -21,20 +21,20 @@ export class SearchForm extends Component {
 
   render() {
     return (
-      <div className="jumbotron jumbotron-fluid mt-5 text-center">
+      <div className="jumbotron jumbotron-fluid mt-4 text-center" style={{color:'#fff', backgroundColor:'#1305'}}>
         <div className="container">
           <h1 className="display-4 mb-3">
-            <i className="fa fa-search" /> Search for a movie ,TV series ..
+            <i className="fa fa-search" /> Search Any Shows Here...
           </h1>
           <form id="searchForm" onSubmit={this.onSubmit}>
             <input
               type="text"
               className="form-control"
               name="searchText"
-              placeholder="Search Movies, TV Series ..."
+              placeholder="Enter Your Search..."
               onChange={this.onChange}
             />
-            <button type="submit" className="btn btn-primary btn-bg mt-3">
+            <button type="submit" className="btn mt-4" style={{color:'#fff', backgroundColor:'#1b3050'}}>
               Search
             </button>
           </form>
