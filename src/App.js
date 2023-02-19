@@ -6,6 +6,7 @@ import Navbar from './components/setup/Navbar';
 import Landing from './components/home/Landing';
 import Movie from './components/home/Movie';
 import store from './store';
+import Contact from './components/contact/contact';
 
 class App extends Component {
   render() {
@@ -16,6 +17,7 @@ class App extends Component {
             <Navbar />
             <Route exact path="/" component={Landing} />
             <Route exact path="/movie/:id" component={Movie} />
+            <Route exact path='/contact' component={Contact} />
           </div>
         </Router>
       </Provider>
