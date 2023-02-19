@@ -1,13 +1,13 @@
 {
-  "main.css": "/scholathon/static/css/main.9345ea64.chunk.css",
-  "main.js": "/scholathon/static/js/main.d700a2dd.chunk.js",
-  "main.js.map": "/scholathon/static/js/main.d700a2dd.chunk.js.map",
-  "static/js/1.a6313b58.chunk.js": "/scholathon/static/js/1.a6313b58.chunk.js",
-  "static/js/1.a6313b58.chunk.js.map": "/scholathon/static/js/1.a6313b58.chunk.js.map",
+  "main.css": "/scholathon/static/css/main.9b52b71d.chunk.css",
+  "main.js": "/scholathon/static/js/main.6afee9d9.chunk.js",
+  "main.js.map": "/scholathon/static/js/main.6afee9d9.chunk.js.map",
+  "static/js/1.6c59cc6b.chunk.js": "/scholathon/static/js/1.6c59cc6b.chunk.js",
+  "static/js/1.6c59cc6b.chunk.js.map": "/scholathon/static/js/1.6c59cc6b.chunk.js.map",
   "runtime~main.js": "/scholathon/static/js/runtime~main.cef0dffd.js",
   "runtime~main.js.map": "/scholathon/static/js/runtime~main.cef0dffd.js.map",
-  "static/css/main.9345ea64.chunk.css.map": "/scholathon/static/css/main.9345ea64.chunk.css.map",
+  "static/css/main.9b52b71d.chunk.css.map": "/scholathon/static/css/main.9b52b71d.chunk.css.map",
   "index.html": "/scholathon/index.html",
-  "precache-manifest.bafee48e5b2ef99b63b0ea379c9476bf.js": "/scholathon/precache-manifest.bafee48e5b2ef99b63b0ea379c9476bf.js",
+  "precache-manifest.6218f538edabbe8c9926079a78187160.js": "/scholathon/precache-manifest.6218f538edabbe8c9926079a78187160.js",
   "service-worker.js": "/scholathon/service-worker.js"
 }
