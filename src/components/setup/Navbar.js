@@ -5,7 +5,7 @@ import './Navbar.css';
 function Navbar() {
   return (
       <>
-        <nav class="navbar" style={{color:'black', backgroundColor:'#fff', boxShadow:'0px 2px 10px'}}>
+        <nav class="navbar" style={{color:'black', backgroundColor:'#fff', boxShadow:'0px 2px 10px', marginBottom:'10px'}}>
           <div class="navbar-container container">
             <input type="checkbox" name="" id="" />
               <div class="hamburger-lines">
