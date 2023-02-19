@@ -10,6 +10,8 @@ function Navbar() {
             <Link className="navbar-brand text-black text-lg brand-text" to="/">
               Scholathon Movie App
             </Link>
+            <li>Jack</li>
+            <li>Jack</li>
           </div>
         </div>
       </nav>
