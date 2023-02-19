@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "25b9dbab9aec68aa0d8e",
-    "url": "/scholathon/static/css/main.5453a681.chunk.css"
+    "revision": "d700a2dd4722ff2c8204",
+    "url": "/scholathon/static/css/main.9345ea64.chunk.css"
   },
   {
-    "revision": "25b9dbab9aec68aa0d8e",
-    "url": "/scholathon/static/js/main.25b9dbab.chunk.js"
+    "revision": "d700a2dd4722ff2c8204",
+    "url": "/scholathon/static/js/main.d700a2dd.chunk.js"
   },
   {
     "revision": "a6313b5815c74bb4bb63",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/scholathon/static/js/runtime~main.cef0dffd.js"
   },
   {
-    "revision": "715d8aaf2af2d15a8b39d1c20deb5f1e",
+    "revision": "87e0d4247b5357711599726616f47c1e",
     "url": "/scholathon/index.html"
   }
 ];
