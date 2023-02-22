@@ -1,11 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import './Navbar.css';
 
 function Navbar() {
   return (
       <>
-        <nav class="navbar" style={{color:'black', backgroundColor:'#fff', boxShadow:'0px 2px 10px', marginBottom:'10px'}}>
+        <nav class="navbar" style={{color:'black', backgroundColor:'#fff', boxShadow:'0px 2px 10px', marginBottom:'10px', }}>
           <div class="navbar-container container">
             <input type="checkbox" name="" id="" />
               <div class="hamburger-lines">
@@ -15,7 +14,7 @@ function Navbar() {
               </div>
               <ul class="menu-items">
                   <li><a href="#/">Home</a></li>
-                  <li><a href="#/contact">Contact</a></li>
+                  {/* <li><a href="#/contact">Contact</a></li> */}
               </ul>
               <h1 class="logo">Upstick Movie App</h1>
           </div>
