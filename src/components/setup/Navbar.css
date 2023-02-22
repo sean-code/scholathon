@@ -8,7 +8,7 @@
   box-shadow: 0px 5px 10px 0px #aaa;
   position: relative;
   width: 100%;
-  background: #fff;
+  background: #E7E6DD;
   color: #000;
   opacity: 0.85;
   height: 50px;
@@ -57,6 +57,10 @@
 @media (max-width: 768px) {
     .navbar {
       opacity: 0.95;
+      width: 105%;
+      margin:0px auto;
+      left:0px;
+      right:0px;
     }
   
     .navbar-container input[type="checkbox"],

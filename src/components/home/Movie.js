@@ -18,7 +18,7 @@ export class Movie extends Component {
       <div className="container">
         <div className="row">
           <div className="col-md-4 card card-body" style={{boxShadow:'0px 2px 18px', marginBottom:'10px'}}>
-            <img src={movie.Poster} className="thumbnail" alt="Poster" />
+            <img src={movie.Poster} className="thumbnail" alt="Poster"/>
           </div>
           <div className="col-md-8">
             <h2 className="mb-4">{movie.Title}</h2>
