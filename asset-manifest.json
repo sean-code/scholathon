@@ -1,13 +1,13 @@
 {
   "main.css": "/scholathon/static/css/main.0c3cf20c.chunk.css",
-  "main.js": "/scholathon/static/js/main.b59cea9e.chunk.js",
-  "main.js.map": "/scholathon/static/js/main.b59cea9e.chunk.js.map",
+  "main.js": "/scholathon/static/js/main.ad23529a.chunk.js",
+  "main.js.map": "/scholathon/static/js/main.ad23529a.chunk.js.map",
   "static/js/1.76599736.chunk.js": "/scholathon/static/js/1.76599736.chunk.js",
   "static/js/1.76599736.chunk.js.map": "/scholathon/static/js/1.76599736.chunk.js.map",
   "runtime~main.js": "/scholathon/static/js/runtime~main.cef0dffd.js",
   "runtime~main.js.map": "/scholathon/static/js/runtime~main.cef0dffd.js.map",
   "static/css/main.0c3cf20c.chunk.css.map": "/scholathon/static/css/main.0c3cf20c.chunk.css.map",
   "index.html": "/scholathon/index.html",
-  "precache-manifest.113538923fd26fc06b57bc50886452d3.js": "/scholathon/precache-manifest.113538923fd26fc06b57bc50886452d3.js",
+  "precache-manifest.98bb5654439dc47c806941666748fca1.js": "/scholathon/precache-manifest.98bb5654439dc47c806941666748fca1.js",
   "service-worker.js": "/scholathon/service-worker.js"
 }
