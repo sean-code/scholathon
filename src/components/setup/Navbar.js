@@ -14,7 +14,7 @@ function Navbar() {
               </div>
               <ul class="menu-items">
                   <li><a href="#/">Home</a></li>
-                  <li><a href="#/contact">Contact</a></li>
+                  <li><a href="#/">Contact</a></li>
               </ul>
               <h1 class="logo">Upstick Movie App</h1>
           </div>
